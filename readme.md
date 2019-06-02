@@ -37,9 +37,11 @@ python manage.py runserver
 ```
 
 ## Images
+![home](screenshot/Screenshot_Autocomplete.png)
 ![home](screenshot/Screenshot_wiki_search.png)
 ![search_suggestion](screenshot/Screenshot_search_suggestion2.png)
 ![pdf](screenshot/Screenshot_PDF.png)
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.

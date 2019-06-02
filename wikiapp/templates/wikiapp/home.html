@@ -47,6 +47,9 @@
 
 <script type="text/javascript">
   // ajax for wiki autocomplete
+  $('#txtSearch').click(function(e) {
+    e.stopPropagation();
+  });
   $("#txtSearch").autocomplete({
     source: function(request, response) {
       console.log(request.term);
