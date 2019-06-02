@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="text-justify pt-3">
+  <h1 class="text-center"><a href="{{result_url}}">{{result_title}}</a></h1>
+  
+  <p>{{result|safe}}</p>
+</div>
+{% endblock %}
