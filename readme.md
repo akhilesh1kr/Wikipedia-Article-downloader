@@ -37,7 +37,7 @@ python manage.py runserver
 ```
 
 ## Images
-![home](screenshot/Screenshot_Autocomplete.png)
+![Autocomplete](screenshot/Screenshot_Autocomplete2.png)
 ![home](screenshot/Screenshot_wiki_search.png)
 ![search_suggestion](screenshot/Screenshot_search_suggestion2.png)
 ![pdf](screenshot/Screenshot_PDF.png)
