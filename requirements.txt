@@ -17,7 +17,7 @@ requests==2.22.0
 six==1.12.0
 soupsieve==1.9.1
 tinycss2==1.0.2
-urllib3==1.25.3
+urllib3==1.25.8
 WeasyPrint==47
 webencodings==0.5.1
 wikipedia==1.4.0
